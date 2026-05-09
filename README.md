@@ -1,2 +1,2 @@
-# Query-Summarization-
+# Query-Summarization
 Query Summarization using T5 Transformer
